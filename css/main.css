@@ -54,23 +54,23 @@ div {
   font-size: .875rem;
 }
 
-a.btn-subtle:hover {
+.btn-subtle:hover {
   background-color: #666;
   border-color: #666;
 }
 
-a.btn-ghost:hover {
+.btn-ghost:hover {
   background-color: #666;
   border-color: #666;
   color: #fff;
 }
 
-a.btn-warning:hover {
+.btn-warning:hover {
   background-color: #933;
   border-color: #933;
 }
 
-a.btn:hover {
+.btn:hover {
   background-color: #000;
   border-color: #000;
 }
