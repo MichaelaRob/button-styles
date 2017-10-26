@@ -8,18 +8,18 @@ html {
   box-sizing: inherit;
 }
 
+div {
+  padding: .5rem;
+  text-align: center;
+  margin: .75rem;
+}
+
 a {
   text-decoration: none;
   border-style: solid;
   border-width: 3px;
   border-radius: 8px;
   padding: .4em .75em .5em;
-}
-
-div {
-  padding: .5rem;
-  text-align: center;
-  margin: .5rem;
 }
 
 .btn {
