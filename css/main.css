@@ -71,3 +71,8 @@ a.btn-warning:hover {
   background-color: #933;
   border-color: #933;
 }
+
+a.btn:hover {
+  background-color: #000;
+  border-color: #000;
+}
