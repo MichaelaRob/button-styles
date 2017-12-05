@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
-  font-size: 1.125rem;
 }
 
 *, *::before, *::after {
@@ -18,8 +17,9 @@ a {
   border-style: solid;
   border-width: 3px;
   border-radius: 8px;
-  padding: .4em .75em .5em;
+  padding: .4em .75em .3em;
   display: inline-block;
+  font-size: 1.125rem;
 }
 
 .btn {
